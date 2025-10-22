@@ -1,4 +1,4 @@
-# 🧘‍♂️ Philosophers
+# 🍽️ Philosophers
 
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 

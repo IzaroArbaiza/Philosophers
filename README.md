@@ -34,13 +34,6 @@ It simulates the famous **Dining Philosophers Problem**, exploring concepts of c
 
 - Logs each philosopher’s state changes in real time (e.g., "is eating", "is sleeping", "died") with timestamps.
 
-### 🧩 Bonus (if implemented)
-
-- Use of **processes** instead of threads, with **semaphores** for synchronization.  
-- Advanced process management and inter-process communication.  
-- Optimized timing and reduced resource contention.  
-- Enhanced visual or debugging output.
-
 ---
 
 ## 🚀 How to Use
